@@ -11,6 +11,10 @@
 ###### - Submit city name text input field button
 ###### - City name input field event listener
 ###### - City name input field submit button event listener
+#### On 'Enter' keyed on city text input field or submit button clicked:
+##### 1. Construct URL from user input.
+##### 2. Call URL
+##### 3. Test response validity. In invalid, bail.
 
 
 
