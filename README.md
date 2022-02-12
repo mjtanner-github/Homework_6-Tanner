@@ -5,7 +5,12 @@
 ### Implement Javascript
 #### Onload
 ##### 1. Initialize look an feel to initial state.
-
+##### 2. Load searches from previous session from brower storage into previous session buttons.
+##### 3. Implement input fields and event listeners:
+###### - City name text input field
+###### - Submit city name text input field button
+###### - City name input field event listener
+###### - City name input field submit button event listener
 
 
 
