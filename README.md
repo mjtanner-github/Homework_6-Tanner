@@ -2,10 +2,13 @@
 #### Synopsis: We were the create browser application that allowed a user to view the weather conditions in different cities implemented with the use of a weather API.
 ## Implementation Step
 
-###Implement HTML and CSS according to the mockup.
-###Implement Javascript
-###Onload
-###Initialize look an feel to initial state.
+Implement HTML and CSS according to the mockup.
+
+Implement Javascript
+
+Onload
+
+Initialize look an feel to initial state.
 
 
 
