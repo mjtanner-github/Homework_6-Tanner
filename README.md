@@ -3,7 +3,7 @@
 ## Implementation Step
 ### Implement HTML and CSS according to the mockup.
 ### Implement Javascript
-####Onload
+#### Onload
 #### 1. Initialize look an feel to initial state.
 
 
