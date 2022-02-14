@@ -1,4 +1,4 @@
-const key = "a4a33b07cb48498280076d824468958c";
+const key = "94a836c25cda402c9d5d5be66aa76233";
 var city = ""
 var url_1 = "";
 var url_2 = "";
