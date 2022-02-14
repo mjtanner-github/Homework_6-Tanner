@@ -38,3 +38,6 @@
 ##### 4. **WHEN** I view future weather conditions for that city **THEN** I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
 !["Acceptance  Criteria 5"](./assets/images/ac_2.png "Acceptance  Criteria 5") *Acceptance Criteria 5*
 ##### 5. **WHEN** I click on a city in the search history **THEN** I am again presented with current and future conditions for that city
+## Further Work Needed 
+##### 1. Implement 'nation' so that when we enter "Athens" intending "Athens, GA" we don't get "Athens, Greece."
+##### 2. Implement previous search buttons so that if to eliminate repetitions - delete older copies of more recent searches. 
