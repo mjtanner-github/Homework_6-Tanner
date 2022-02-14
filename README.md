@@ -23,7 +23,7 @@
 ####### - wind
 ####### - humidity
 ####### - uv index (background color coded according to NWS standard.)
-![alt text](./assets/images/uv_hazard_colorcode.png)
+!["UV Background Color Code"](./assets/images/./assets/images/uv_hazard_colorcode.png "UV Background Color Code")
 ###### - URL 2, Extended Forecast
 ####### - temp
 ####### - wind
