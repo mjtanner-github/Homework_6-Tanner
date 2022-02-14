@@ -18,11 +18,11 @@
 ##### 4. Parse response JSON.
 ##### 5. Fill appropiate feilds with data elements. 
 ###### - URL 1, Single Day Forecast
-####### - cityName, validated
-####### - temp
-####### - wind
-####### - humidity
-####### - uv index (background color coded according to NWS standard.)
+###### - cityName, validated
+###### - temp
+###### - wind
+###### - humidity
+###### - uv index (background color coded according to NWS standard.)
 
 !["UV Background Color Code"](./assets/images/uv_hazard_colorcode.png "UV Background Color Code")
 
