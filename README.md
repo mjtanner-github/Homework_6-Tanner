@@ -1,5 +1,5 @@
 # Homework-6-Tanner
-#### Synopsis: We were the create browser application that allowed a user to view the weather conditions in different cities implemented with the use of a weather API.
+#### Synopsis: We were to create a browser application that allowed a user to view the weather conditions in different cities implemented with the use of a weather API.
 ## Implementation
 ### Implement HTML and CSS according to the mockup.
 ### Implement Javascript
