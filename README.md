@@ -2,7 +2,7 @@
 ---
 **NOTE TO GRADER**
 
-The API authorization key (from https://www.weatherbit.io/)seems to go bad without reason or warning. I have just refreshed it and won't touch it again until grading is complete. Should it go bad in the iterim, please let me know at matthew.j.tanner@gmail.com and I will correct it as quickly as possible. Thank you 
+The API authorization key (from https://www.weatherbit.io/) seems to go bad without reason or warning. I have just refreshed it and won't touch it again until grading is complete. Should it go bad in the iterim, please let me know at matthew.j.tanner@gmail.com and I will correct it as quickly as possible. Thank you 
 
 ---
 #### Synopsis: We were to create a browser application that allowed a user to view the weather conditions in different cities implemented with the use of a weather API.
