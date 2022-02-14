@@ -1,4 +1,10 @@
 # Homework-6-Tanner
+---
+**NOTE**
+
+It works with almost all markdown flavours (the below blank line matters).
+
+---
 #### Synopsis: We were to create a browser application that allowed a user to view the weather conditions in different cities implemented with the use of a weather API.
 ## Implementation
 ### Implement HTML and CSS according to the mockup.
