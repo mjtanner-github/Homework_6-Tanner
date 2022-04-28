@@ -8,7 +8,7 @@ let trouble_1 = true;//previous search button area
 
 onload=function(){
 
-    //Initialize the button search area buttons - Diables buttons until they get a city.
+    //Initialize the button search area buttons - Disables buttons until they get a city.
     for(var i=0; i < 10; i++){
         var currentButton = document.getElementById("button_search_area");
         currentButton.children[i].style.backgroundColor = "white";
