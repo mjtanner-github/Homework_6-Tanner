@@ -8,7 +8,7 @@ let trouble_1 = true;//previous search button area
 
 onload=function(){
 
-    //Initialize the button search area buttons - Disables buttons until they get a city.
+    //Initialize the button search area buttons - Diables buttons until they get a city.
     for(var i=0; i < 10; i++){
         var currentButton = document.getElementById("button_search_area");
         currentButton.children[i].style.backgroundColor = "white";
@@ -50,11 +50,10 @@ onload=function(){
         }
     });
     //Button search area eventListener.
-    const buttonSearchArea = document.getElementsById("button_search_area");
+    const buttonSearchArea = document.getElementById("button_search_area");
     buttonSearchArea.addEventListener("click", function(event){
-        var buttonClicked = document.getElementsById(event.target.id);
+        var buttonClicked = document.getElementById(event.target.id)
         city = buttonClicked.innerHTML;
-        document.getElementsByName("city_search_input").innerHTML = city;
         mainProcess();
     });
 }
@@ -201,5 +200,4 @@ function localStorageEntries(){
     }
     return(count);
 }
-
 
