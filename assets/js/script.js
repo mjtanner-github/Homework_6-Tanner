@@ -52,7 +52,7 @@ onload=function(){
     //Button search area eventListener.
     const buttonSearchArea = document.getElementsById("button_search_area");
     buttonSearchArea.addEventListener("click", function(event){
-        var buttonClicked = document.getElementById(event.target.id);
+        var buttonClicked = document.getElementsById(event.target.id);
         city = buttonClicked.innerHTML;
         document.getElementByName("city_search_input").innerHTML = city;
         mainProcess();
