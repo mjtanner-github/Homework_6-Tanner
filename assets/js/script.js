@@ -54,7 +54,7 @@ onload=function(){
     buttonSearchArea.addEventListener("click", function(event){
         var buttonClicked = document.getElementsById(event.target.id);
         city = buttonClicked.innerHTML;
-        document.getElementByName("city_search_input").innerHTML = city;
+        document.getElementsByName("city_search_input").innerHTML = city;
         mainProcess();
     });
 }
