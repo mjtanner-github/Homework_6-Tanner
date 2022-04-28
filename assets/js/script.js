@@ -26,7 +26,7 @@ onload=function(){
         target.disabled = false;
         target.style.backgroundColor = "lightgrey";        
     }
-    city = document.getElementById("b0").innerHTML;  
+    //city = document.getElementById("b0").innerHTML;  
 
     mainProcess();  
     
