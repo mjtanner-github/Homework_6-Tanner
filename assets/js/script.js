@@ -5,6 +5,7 @@ var url_2 = "";
 var city_count = 0;
 let falseInitialized = false;
 let trouble_1 = true;//previous search button area
+let previous_cities = [];
 
 onload=function(){
 
@@ -22,7 +23,9 @@ onload=function(){
     var index = Math.min(city_count, 10);
     for(var i = 0; i < index; i++){
         var target = document.getElementById("b"+i);
-        target.innerHTML=localStorage.getItem("weather_dashboard"+(index-1-i));
+        let nextCity=localStorage.getItem("weather_dashboard"+(index-1-i));
+        target.innerHTML=nextCity;
+        previous_cities.push(nextCity);
         target.disabled = false;
         target.style.backgroundColor = "lightgrey";        
     }
@@ -200,4 +203,5 @@ function localStorageEntries(){
     }
     return(count);
 }
+
 
