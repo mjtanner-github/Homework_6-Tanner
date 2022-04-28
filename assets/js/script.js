@@ -50,7 +50,7 @@ onload=function(){
         }
     });
     //Button search area eventListener.
-    const buttonSearchArea = document.getElementById("button_search_area");
+    const buttonSearchArea = document.getElementsById("button_search_area");
     buttonSearchArea.addEventListener("click", function(event){
         var buttonClicked = document.getElementById(event.target.id);
         city = buttonClicked.innerHTML;
